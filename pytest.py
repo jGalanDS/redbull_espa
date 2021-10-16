@@ -1,3 +1,3 @@
-a = 77
+a =
 print(a)
 print(a)
