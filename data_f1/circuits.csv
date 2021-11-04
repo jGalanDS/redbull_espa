@@ -76,3 +76,4 @@ circuitId,circuitRef,name,location,country,lat,lng,alt,url
 75,"portimao","Autódromo Internacional do Algarve","Portimão","Portugal",37.227,-8.6267,108,"http://en.wikipedia.org/wiki/Algarve_International_Circuit"
 76,"mugello","Autodromo Internazionale del Mugello","Mugello","Italy",43.9975,11.3719,255,"http://en.wikipedia.org/wiki/Mugello_Circuit"
 77,"jeddah","Jeddah Street Circuit","Jeddah","Saudi Arabia",21.5433,39.1728,15,"http://en.wikipedia.org/wiki/Jeddah_Street_Circuit"
+78,"losail","Losail International Circuit","Al Daayen","Qatar",25.49,51.4542,\N,"http://en.wikipedia.org/wiki/Losail_International_Circuit"
