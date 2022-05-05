@@ -4651,16 +4651,20 @@ year,date,quali_pos,statusId,position,dob,driver_nationality,constructor,constru
 2018,2018-10-28,17,12,19,1998-10-29,Can,Williams,Bri,Autódromo Hermanos Rodríguez,Mex,Lance Stroll,7304,0,0,0,1
 2018,2018-10-28,19,12,20,1995-08-27,Rus,Williams,Bri,Autódromo Hermanos Rodríguez,Mex,Sergey Sirotkin,8463,0,0,0,1
 2019,2019-10-27,19,12,19,1998-02-15,Bri,Williams,Bri,Autódromo Hermanos Rodríguez,Mex,George Russell,7924,0,0,0,1
+2021,2021-11-07,16,12,13,1998-02-15,Bri,Williams,Bri,Autódromo Hermanos Rodríguez,Mex,George Russell,8666,0,0,0,1
+2021,2021-11-07,13,12,17,1995-06-29,Can,Williams,Bri,Autódromo Hermanos Rodríguez,Mex,Nicholas Latifi,9628,0,0,0,1
 2015,2015-11-01,20,1,20,1980-01-19,Bri,McLaren,Bri,Autódromo Hermanos Rodríguez,Mex,Jenson Button,13070,0,0,0,0
 2016,2016-10-30,13,11,13,1980-01-19,Bri,McLaren,Bri,Autódromo Hermanos Rodríguez,Mex,Jenson Button,13434,0,0,0,1
 2015,2015-11-01,18,31,16,1981-07-29,Spa,McLaren,Bri,Autódromo Hermanos Rodríguez,Mex,Fernando Alonso,12513,0,0,1,0
 2016,2016-10-30,11,11,11,1981-07-29,Spa,McLaren,Bri,Autódromo Hermanos Rodríguez,Mex,Fernando Alonso,12877,0,0,0,1
 2017,2017-10-29,18,11,14,1981-07-29,Spa,McLaren,Bri,Autódromo Hermanos Rodríguez,Mex,Fernando Alonso,13241,0,0,0,1
 2018,2018-10-28,12,5,12,1981-07-29,Spa,McLaren,Bri,Autódromo Hermanos Rodríguez,Mex,Fernando Alonso,13605,0,0,0,1
+2021,2021-11-07,7,11,7,1989-07-01,Aus,McLaren,Bri,Autódromo Hermanos Rodríguez,Mex,Daniel Ricciardo,11817,0,0,0,1
 2019,2019-10-27,7,11,7,1994-09-01,Spa,McLaren,Bri,Autódromo Hermanos Rodríguez,Mex,Carlos Sainz,9187,0,0,0,1
 2017,2017-10-29,19,11,15,1992-03-26,Bel,McLaren,Bri,Autódromo Hermanos Rodríguez,Mex,Stoffel Vandoorne,9348,0,0,0,1
 2018,2018-10-28,15,12,17,1992-03-26,Bel,McLaren,Bri,Autódromo Hermanos Rodríguez,Mex,Stoffel Vandoorne,9712,0,0,0,1
 2019,2019-10-27,8,54,8,1999-11-13,Bri,McLaren,Bri,Autódromo Hermanos Rodríguez,Mex,Lando Norris,7288,0,0,0,1
+2021,2021-11-07,18,11,10,1999-11-13,Bri,McLaren,Bri,Autódromo Hermanos Rodríguez,Mex,Lando Norris,8030,0,0,0,1
 2015,2015-11-01,3,3,3,1987-07-03,Ger,Ferrari,Ita,Autódromo Hermanos Rodríguez,Mex,Sebastian Vettel,10348,0,0,1,0
 2016,2016-10-30,7,1,7,1987-07-03,Ger,Ferrari,Ita,Autódromo Hermanos Rodríguez,Mex,Sebastian Vettel,10712,0,0,0,0
 2017,2017-10-29,1,1,1,1987-07-03,Ger,Ferrari,Ita,Autódromo Hermanos Rodríguez,Mex,Sebastian Vettel,11076,0,0,0,0
@@ -4670,7 +4674,11 @@ year,date,quali_pos,statusId,position,dob,driver_nationality,constructor,constru
 2016,2016-10-30,6,1,6,1979-10-17,Fin,Ferrari,Ita,Autódromo Hermanos Rodríguez,Mex,Kimi Räikkönen,13528,0,0,0,0
 2017,2017-10-29,5,1,5,1979-10-17,Fin,Ferrari,Ita,Autódromo Hermanos Rodríguez,Mex,Kimi Räikkönen,13892,0,0,0,0
 2018,2018-10-28,6,1,6,1979-10-17,Fin,Ferrari,Ita,Autódromo Hermanos Rodríguez,Mex,Kimi Räikkönen,14256,0,0,0,0
+2021,2021-11-07,6,11,6,1994-09-01,Spa,Ferrari,Ita,Autódromo Hermanos Rodríguez,Mex,Carlos Sainz,9929,0,0,0,1
 2019,2019-10-27,1,1,2,1997-10-16,Mon,Ferrari,Ita,Autódromo Hermanos Rodríguez,Mex,Charles Leclerc,8046,0,0,0,0
+2021,2021-11-07,8,1,8,1997-10-16,Mon,Ferrari,Ita,Autódromo Hermanos Rodríguez,Mex,Charles Leclerc,8788,0,0,0,0
+2021,2021-11-07,12,11,16,1981-07-29,Spa,Alpine F1,Fre,Autódromo Hermanos Rodríguez,Mex,Fernando Alonso,14711,0,0,0,1
+2021,2021-11-07,19,11,15,1996-09-17,Fre,Alpine F1,Fre,Autódromo Hermanos Rodríguez,Mex,Esteban Ocon,9182,0,0,0,1
 2015,2015-11-01,1,1,1,1985-06-27,Ger,Mercedes,Ger,Autódromo Hermanos Rodríguez,Mex,Nico Rosberg,11084,0,0,0,0
 2016,2016-10-30,2,1,2,1985-06-27,Ger,Mercedes,Ger,Autódromo Hermanos Rodríguez,Mex,Nico Rosberg,11448,0,0,0,0
 2015,2015-11-01,2,1,2,1985-01-07,Bri,Mercedes,Ger,Autódromo Hermanos Rodríguez,Mex,Lewis Hamilton,11255,0,0,0,0
@@ -4678,9 +4686,11 @@ year,date,quali_pos,statusId,position,dob,driver_nationality,constructor,constru
 2017,2017-10-29,3,11,3,1985-01-07,Bri,Mercedes,Ger,Autódromo Hermanos Rodríguez,Mex,Lewis Hamilton,11983,0,0,0,1
 2018,2018-10-28,3,1,3,1985-01-07,Bri,Mercedes,Ger,Autódromo Hermanos Rodríguez,Mex,Lewis Hamilton,12347,0,0,0,0
 2019,2019-10-27,3,1,4,1985-01-07,Bri,Mercedes,Ger,Autódromo Hermanos Rodríguez,Mex,Lewis Hamilton,12711,0,0,0,0
+2021,2021-11-07,2,1,2,1985-01-07,Bri,Mercedes,Ger,Autódromo Hermanos Rodríguez,Mex,Lewis Hamilton,13453,0,0,0,0
 2017,2017-10-29,4,1,4,1989-08-28,Fin,Mercedes,Ger,Autódromo Hermanos Rodríguez,Mex,Valtteri Bottas,10289,0,0,0,0
 2018,2018-10-28,5,11,5,1989-08-28,Fin,Mercedes,Ger,Autódromo Hermanos Rodríguez,Mex,Valtteri Bottas,10653,0,0,0,1
 2019,2019-10-27,6,1,6,1989-08-28,Fin,Mercedes,Ger,Autódromo Hermanos Rodríguez,Mex,Valtteri Bottas,11017,0,0,0,0
+2021,2021-11-07,1,12,1,1989-08-28,Fin,Mercedes,Ger,Autódromo Hermanos Rodríguez,Mex,Valtteri Bottas,11759,0,0,0,1
 2016,2016-10-30,18,11,18,1994-04-26,Rus,AlphaTauri,Ita,Autódromo Hermanos Rodríguez,Mex,Daniil Kvyat,8223,0,0,0,1
 2019,2019-10-27,9,11,9,1994-04-26,Rus,AlphaTauri,Ita,Autódromo Hermanos Rodríguez,Mex,Daniil Kvyat,9315,0,0,0,1
 2015,2015-11-01,11,1,11,1994-09-01,Spa,AlphaTauri,Ita,Autódromo Hermanos Rodríguez,Mex,Carlos Sainz,7731,0,0,0,0
@@ -4706,6 +4716,7 @@ year,date,quali_pos,statusId,position,dob,driver_nationality,constructor,constru
 2016,2016-10-30,19,11,19,1992-08-21,Bra,Alfa Romeo,Swi,Autódromo Hermanos Rodríguez,Mex,Felipe Nasr,8836,0,0,0,1
 2017,2017-10-29,13,12,17,1994-10-18,Ger,Alfa Romeo,Swi,Autódromo Hermanos Rodríguez,Mex,Pascal Wehrlein,8412,0,0,0,1
 2018,2018-10-28,9,12,9,1997-10-16,Mon,Alfa Romeo,Swi,Autódromo Hermanos Rodríguez,Mex,Charles Leclerc,7682,0,0,0,1
+2021,2021-11-07,4,1,4,1990-01-26,Mex,Red Bull,Aus,Autódromo Hermanos Rodríguez,Mex,Sergio Pérez,11608,1,0,0,0
 2015,2015-11-01,5,1,5,1989-07-01,Aus,Red Bull,Aus,Autódromo Hermanos Rodríguez,Mex,Daniel Ricciardo,9619,0,0,0,0
 2016,2016-10-30,4,1,4,1989-07-01,Aus,Red Bull,Aus,Autódromo Hermanos Rodríguez,Mex,Daniel Ricciardo,9983,0,0,0,0
 2017,2017-10-29,16,5,7,1989-07-01,Aus,Red Bull,Aus,Autódromo Hermanos Rodríguez,Mex,Daniel Ricciardo,10347,0,0,0,1
@@ -4715,9 +4726,14 @@ year,date,quali_pos,statusId,position,dob,driver_nationality,constructor,constru
 2017,2017-10-29,2,1,2,1997-09-30,Dut,Red Bull,Aus,Autódromo Hermanos Rodríguez,Mex,Max Verstappen,7334,0,0,0,0
 2018,2018-10-28,2,1,2,1997-09-30,Dut,Red Bull,Aus,Autódromo Hermanos Rodríguez,Mex,Max Verstappen,7698,0,0,0,0
 2019,2019-10-27,4,1,1,1997-09-30,Dut,Red Bull,Aus,Autódromo Hermanos Rodríguez,Mex,Max Verstappen,8062,0,0,0,0
+2021,2021-11-07,3,1,3,1997-09-30,Dut,Red Bull,Aus,Autódromo Hermanos Rodríguez,Mex,Max Verstappen,8804,0,0,0,0
 2019,2019-10-27,5,1,5,1996-03-23,Tha,Red Bull,Aus,Autódromo Hermanos Rodríguez,Mex,Alexander Albon,8618,0,0,0,0
+2021,2021-11-07,9,11,11,1987-07-03,Ger,Aston Martin,Bri,Autódromo Hermanos Rodríguez,Mex,Sebastian Vettel,12546,0,0,0,1
+2021,2021-11-07,20,12,20,1998-10-29,Can,Aston Martin,Bri,Autódromo Hermanos Rodríguez,Mex,Lance Stroll,8410,0,0,0,1
 2019,2019-10-27,14,25,14,1979-10-17,Fin,Alfa Romeo,Swi,Autódromo Hermanos Rodríguez,Mex,Kimi Räikkönen,14620,0,0,0,1
+2021,2021-11-07,10,11,12,1979-10-17,Fin,Alfa Romeo,Swi,Autódromo Hermanos Rodríguez,Mex,Kimi Räikkönen,15362,0,0,0,1
 2019,2019-10-27,15,11,15,1993-12-14,Ita,Alfa Romeo,Swi,Autódromo Hermanos Rodríguez,Mex,Antonio Giovinazzi,9448,0,0,0,1
+2021,2021-11-07,11,11,14,1993-12-14,Ita,Alfa Romeo,Swi,Autódromo Hermanos Rodríguez,Mex,Antonio Giovinazzi,10190,0,0,0,1
 2015,2015-11-01,12,1,12,1986-04-17,Fre,Alpine F1,Bri,Autódromo Hermanos Rodríguez,Mex,Romain Grosjean,10790,0,0,0,0
 2015,2015-11-01,13,1,13,1985-03-09,Ven,Alpine F1,Bri,Autódromo Hermanos Rodríguez,Mex,Pastor Maldonado,11194,0,0,0,0
 2016,2016-10-30,22,11,21,1986-04-17,Fre,Haas F1 Team,Ame,Autódromo Hermanos Rodríguez,Mex,Romain Grosjean,11154,0,0,0,1
@@ -4728,8 +4744,12 @@ year,date,quali_pos,statusId,position,dob,driver_nationality,constructor,constru
 2017,2017-10-29,14,11,18,1992-10-05,Dan,Haas F1 Team,Ame,Autódromo Hermanos Rodríguez,Mex,Kevin Magnussen,9155,0,0,0,1
 2018,2018-10-28,16,12,18,1992-10-05,Dan,Haas F1 Team,Ame,Autódromo Hermanos Rodríguez,Mex,Kevin Magnussen,9519,0,0,0,1
 2019,2019-10-27,17,12,17,1992-10-05,Dan,Haas F1 Team,Ame,Autódromo Hermanos Rodríguez,Mex,Kevin Magnussen,9883,0,0,0,1
+2021,2021-11-07,14,4,18,1999-03-22,Ger,Haas F1 Team,Ame,Autódromo Hermanos Rodríguez,Mex,Mick Schumacher,8266,0,0,1,0
+2021,2021-11-07,15,13,19,1999-03-02,Rus,Haas F1 Team,Ame,Autódromo Hermanos Rodríguez,Mex,Nikita Mazepin,8286,0,0,0,1
 2019,2019-10-27,11,1,11,1990-01-26,Mex,Aston Martin,Bri,Autódromo Hermanos Rodríguez,Mex,Sergio Pérez,10866,1,0,0,0
 2019,2019-10-27,16,11,16,1998-10-29,Can,Aston Martin,Bri,Autódromo Hermanos Rodríguez,Mex,Lance Stroll,7668,0,0,0,1
+2021,2021-11-07,5,1,5,1996-02-07,Fre,AlphaTauri,Ita,Autódromo Hermanos Rodríguez,Mex,Pierre Gasly,9405,0,0,0,0
+2021,2021-11-07,17,4,9,2000-05-11,Jap,AlphaTauri,Ita,Autódromo Hermanos Rodríguez,Mex,Yuki Tsunoda,7850,0,0,1,0
 2016,2016-10-30,16,4,16,1994-10-18,Ger,Manor Marussia,Bri,Autódromo Hermanos Rodríguez,Mex,Pascal Wehrlein,8048,0,0,1,0
 2016,2016-10-30,20,12,20,1996-09-17,Fre,Manor Marussia,Bri,Autódromo Hermanos Rodríguez,Mex,Esteban Ocon,7348,0,0,0,1
 2018,2018-06-24,12,1,12,1987-08-19,Ger,Alpine F1,Fre,Circuit Paul Ricard,Fra,Nico Hülkenberg,11267,0,0,0,0
